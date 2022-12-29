@@ -2,6 +2,7 @@ label,button {
     display: block;
     color: blue;
     font-size: large;
+    margin-top: 8px;
 }
 
 button{
