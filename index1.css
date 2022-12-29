@@ -1,0 +1,19 @@
+label,button {
+    display: block;
+    color: blue;
+    font-size: large;
+}
+
+button{
+    color: red;
+    font-size: larger;
+}
+
+table,th,td {
+    border: 1px solid black;
+}
+
+th {
+    color: rgb(66, 32, 221);
+    font-size: larger;
+}
